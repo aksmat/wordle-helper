@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>wordle-list.txt</file>
+        <file>icon-192.png</file>
+    </qresource>
+</RCC>
