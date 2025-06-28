@@ -28,10 +28,10 @@ For the Game state
 
 the helper would be:
 
-![In Progress Helper](screenshots/in-Progress.png)
+![In Progress Helper](screenshots/in-progress.png)
 
 ### Game Finished
 
-[Game Finished](screenshots/game-state-finished.png)
+![Game Finished](screenshots/game-state-finished.png)
 
-[Game Finished](screenshots/finished.png)
+![Game Finished](screenshots/finished.png)
